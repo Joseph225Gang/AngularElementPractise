@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "element-test"
+  "defaultProject": "element-test",
+  "cli": {
+    "analytics": "1d0c89b1-1216-4273-bc1a-f0b2523d2054"
+  }
 }
